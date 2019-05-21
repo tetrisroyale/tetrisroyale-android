@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://title_screen/buttons/btn.tscn" type="PackedScene" id=1]
+
+[node name="ProfileButton" instance=ExtResource( 1 )]
